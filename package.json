@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dash": "^3.25.22",
     "dotenv": "^16.4.5",
+    "lodash": "^3.0.0",
     "ngrok": "^5.0.0-beta.2"
   }
 }
