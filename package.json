@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dash": "^3.25.22",
+    "dash": "^4.7.1",
     "dotenv": "^16.4.5",
     "js-yaml": "^3.14.1",
     "lodash": "^3.0.0",
